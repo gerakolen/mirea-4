@@ -1,0 +1,32 @@
+{
+  "source": {
+    "name": "Практическая работа №1.pdf",
+    "path": "subjects/tiabd/1/Практическая работа №1.pdf",
+    "stored_copy": ".work/source/Практическая работа №1.pdf",
+    "sha256": "7a0cc4c319eedf466520d92d775171b244f79ca2af5e0ae68434eb23af8dd72a"
+  },
+  "mode": "auto",
+  "state": "CHECKED_OK",
+  "previous_state": null,
+  "current_command": null,
+  "commands": {
+    "ingest": "succeeded",
+    "plan": "succeeded",
+    "check": "succeeded"
+  },
+  "steps": {
+    "STEP-001": "succeeded",
+    "STEP-002": "succeeded",
+    "STEP-003": "succeeded",
+    "STEP-004": "succeeded"
+  },
+  "outputs": {
+    "source_copy": ".work/source/Практическая работа №1.pdf",
+    "requirements": ".work/extracted/requirements.md",
+    "plan": ".work/plan/plan.md",
+    "traceability": ".work/traceability.md",
+    "check_report": ".work/check/report.md"
+  },
+  "open_questions": [],
+  "allowed_next_commands": []
+}
